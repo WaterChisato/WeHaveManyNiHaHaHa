@@ -4,4 +4,4 @@ Silly thing I made for fun. Click screen. spawn koyukis. Repeat. Most of the cod
 
 Art and music @ Nexon. Music on/off icon by kawalanicon (https://www.flaticon.com/authors/kawalanicon).
 
-Link to page: https://zerofps-hk.github.io/koyuki-clicker/
+Link to page: https://waterchisato.github.io/WeHaveManyNihahaha
